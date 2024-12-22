@@ -1,0 +1,18 @@
+@import font.css
+
+*{
+	margin:0px;
+	padding:0px;
+
+}
+
+.texta h1{
+	color:#e31c40;
+	text-align:Center;
+	margin:25px;
+	padding:15px;
+	
+}
+.textb h3.texta{
+	color:green;
+}
